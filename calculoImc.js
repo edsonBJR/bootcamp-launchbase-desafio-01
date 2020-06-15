@@ -16,8 +16,8 @@
 // SE o IMC menor que 29.9: Carlos você não está acima do peso;
 
 const nome = "Edson"
-const peso = 87
-const altura = 1.70
+const peso = 23
+const altura = 1.22
 
 const imc = peso / (altura * altura)
 
